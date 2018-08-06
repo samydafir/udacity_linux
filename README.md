@@ -1,6 +1,6 @@
 # README
 
-## Access
+## access
 + Static IP: `18.185.209.54`
 + DNS name using no-ip: `udacity-aws.ddns.net`
 + Startpage URL: `http://udacity-aws.ddns.net`

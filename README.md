@@ -32,8 +32,8 @@
 + using mod_wsgi to serve flask app:
 + app located in `/var/www/html/udacity-backend/project`
 + Enabled `rewrite` and `headers` modules for following security settings
-+ Some additional apache security hardening settings:
 + moved OAuth client_secret outside of web-directory
++ Some additional apache security hardening settings:
 ```
 ServerName udacity-aws
 ServerTokens Prod

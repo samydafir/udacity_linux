@@ -14,6 +14,9 @@
 + git
 + current updates
 
+## deployed app
+[item catalog](https://github.com/samydafir/udacity_backend_project)
+
 ## configuration
 
 #### firewall (ufw and lightsail)
@@ -26,7 +29,6 @@
 + No password authentication: `PasswordAuthentication no`
 + Public key authentication only
 + Only `grader` and `ubuntu` allowed to log in remotely: `AllowUsers ubuntu grader`
-
 
 #### apache
 + using mod_wsgi to serve flask app:
